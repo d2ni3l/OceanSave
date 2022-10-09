@@ -1,4 +1,4 @@
 # OceanSave
 A website for a company that cleans the ocean
 
-Preview Link: oceansave.netlify.app
+Preview Link: https://oceansave.netlify.app/
